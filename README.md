@@ -7,11 +7,14 @@ I strive to make a positive impact on the each product and the client's goals by
 
 **Portfolio:**
 
+
 [Radek Wawrzyk - Front End Engineer](https://radek-new-portfolio.netlify.app/)
 
 
 
+
 **MY STACK**
+
 
 - HTML/CSS/SASS/SCSS
   
