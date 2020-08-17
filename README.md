@@ -1,17 +1,3 @@
-<!--
-**Radek-Wawrzyk/Radek-Wawrzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Welcome to my Github profile!
 
@@ -19,13 +5,13 @@ Hi my name is Radek and I'm the Front-End Developer with a terrible haircut! Des
 
 I strive to make a positive impact on the each product and the client's goals by introducing new solutions and providing a specialized dedicated approach to each project and challenge. I say NO to standard/boring approaches! Feel free to contact me and let's make Front-End great again!
 
-### Portfolio:
+## Portfolio:
 
 [Radek Wawrzyk - Front End Engineer](https://radek-new-portfolio.netlify.app/)
 
 ---
 
-### MY STACK
+## MY STACK
 
 ---
 
