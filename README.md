@@ -1,5 +1,5 @@
 
-# Welcome to my Github profile!
+# Radosław Wawrzyk Front-End/UI Developer
 
 Hi my name is Radek and I'm the Front-End Developer with a terrible haircut! Despite my hair I love Vue.js stack - literally almost all of my projects are based on Vue - which is cool! However, I am not limited to one technology, I am eager to learn new things.
 
@@ -7,14 +7,11 @@ I strive to make a positive impact on the each product and the client's goals by
 
 **Portfolio:**
 
-
 [Radek Wawrzyk - Front End Engineer](https://radek-new-portfolio.netlify.app/)
 
 
 
-
 **MY STACK**
-
 
 - HTML/CSS/SASS/SCSS
   
