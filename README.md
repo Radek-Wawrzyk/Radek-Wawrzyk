@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Radek-Wawrzyk/Radek-Wawrzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my Github profile!
+# Welcome to my Github profile!
 
 Hi my name is Radek and I'm the Front-End Developer with a terrible haircut! Despite my hair I love Vue.js stack - literally almost all of my projects are based on Vue - which is cool! However, I am not limited to one technology, I am eager to learn new things.
 
