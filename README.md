@@ -15,6 +15,8 @@ I strive to make a positive impact on the each product and the client's goals by
 - Vue.js/Vuex
   
 - Vuestorefront (e-commerce SSR Vue.js PWA platform)
+
+- Shopware PWA (shopware e-commerce SSR Vue.js platform)
   
 - Nuxt.js/Gridsome
   
