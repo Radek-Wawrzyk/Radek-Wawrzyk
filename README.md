@@ -11,8 +11,12 @@ I strive to make a positive impact on the each product and the client's goals by
 - HTML/CSS/SASS/SCSS
   
 - JavaScript (ES6+)
-  
+
 - Vue.js/Vuex
+
+- TypeScript basics 
+
+- React.js basics
   
 - Vuestorefront (e-commerce SSR Vue.js PWA platform)
 
