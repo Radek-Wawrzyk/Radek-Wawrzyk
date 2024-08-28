@@ -9,24 +9,16 @@ I strive to make a positive impact on the each product and the client's goals by
 
 **MY STACK**
 
-- HTML/CSS/SASS/SCSS
-  
-- JavaScript (ES6+)
+- Vue.js (2 & 3) / Vuex / Pinia / VSF / Nuxt
+- React / Preact / Redux / Hooks
+- JavaScript (ES6+) / TypeScript
+- HTML / CSS / SCSS / Tailwind
+- Node.js / Express.js / Nest.js
+- MongoDB / Firebase / MySQL
+- REST-API / GraphQL / Headless / CMS
+- SEO / Accessibility / Web Performance
+- Git / Git flow
+- Unit tests (Jest / Vitest) / E2E tests (Cypress / Playwright)
+- Vite / Webpack / Docker
+- Basic CD/CI
 
-- Vue.js/Vuex/Pinia
-
-- TypeScript
-
-- React.js/Next.js basics
-  
-- Vuestorefront (e-commerce SSR Vue.js PWA platform)
-
-- Shopware PWA (shopware e-commerce SSR Vue.js platform)
-  
-- Nuxt.js/Gridsome
-  
-- Hammer.js/Axios.js
-  
-- Node.js/Express.js/MongoDB
-  
-- Bootstrap/Bulma/ElementUI
